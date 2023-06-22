@@ -20,7 +20,7 @@ body{
     background-color: var(--cor-primaria);
     color: var(--cor-terciaria);
     overflow-x: hidden;
-    background-size:cover;
+    
 }
 
 .cabecalho{
@@ -186,7 +186,6 @@ body{
     }
     .rodape{
         position: static;
-   
     }
     .imagem__joojo{
         width: 42%;

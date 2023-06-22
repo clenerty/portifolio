@@ -2,8 +2,8 @@
 
 :root{
     --cor-primaria: #1e2022;
-    --cor-secundaria: #64CCC5;
-    --cor-terciaria: #DAFFFB;
+    --cor-secundaria: #5be4db;
+    --cor-terciaria: #dafffa;
     
     --fonte-primaria: 'Montserrat', sans-serif;
     --fonte-secundaria: 'Inconsolata', monospace;
@@ -20,6 +20,7 @@ body{
     background-color: var(--cor-primaria);
     color: var(--cor-terciaria);
     overflow-x: hidden;
+    background-size:cover;
 }
 
 .cabecalho{
@@ -141,6 +142,9 @@ body{
 
 .imagem__jooj{
     width: 30%;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px gray;
+
 }
 
 .imagem__joojo{
@@ -187,6 +191,6 @@ body{
     .imagem__joojo{
         width: 42%;
     }
-
+    
 }
 

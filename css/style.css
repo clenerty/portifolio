@@ -23,7 +23,7 @@ body{
 }
 
 .cabecalho{
-    padding: 2% 0% 0% 19.8%;
+    padding: 2% 0% 0% 19%;
 }
 
 .cabecalho__menu{
@@ -168,6 +168,9 @@ body{
     }
     .container__conteudo{
         width: auto;
+    }
+    .rodape{
+        position: static;
     }
 }
 

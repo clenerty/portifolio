@@ -52,6 +52,10 @@ body{
     gap: 82px;
 }
 
+.container__strong{
+    color: var(--cor-secundaria)
+}
+
 .container__conteudo{
     width: 50;
     display: flex;
